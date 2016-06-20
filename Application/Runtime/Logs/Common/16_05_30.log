@@ -1,0 +1,30 @@
+[ 2016-05-30T10:43:37+08:00 ] 192.168.8.2 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-05-30T10:43:44+08:00 ] 192.168.8.183 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-05-30T10:44:06+08:00 ] 192.168.8.2 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-30T10:44:10+08:00 ] 192.168.8.183 /login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-30T10:44:25+08:00 ] ::1 /sdcms/index.php?m=admin&c=index&a=public_session_life
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Sdcms
+
